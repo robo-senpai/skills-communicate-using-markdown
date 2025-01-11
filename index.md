@@ -14,3 +14,16 @@ And this is normal text I guess?
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+``` python
+def funkcjaaa():
+  # i tak nie dziala
+  lalala = "ludzie i nie tylko"
+  print(f"Siemano", lalala)
+
+funkcjaaa()
+```
+
+- [x] Add headers
+- [x] Add image
+- [ ] Commit something meaningful
